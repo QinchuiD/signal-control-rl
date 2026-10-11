@@ -1,0 +1,9 @@
+{
+  "markdown.copyFiles.destination": {
+    "/**/*": "/images/"
+  },
+  "markdown.editor.filePaste.enabled": "always",
+  "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+  "markdown.validate.enabled": true,
+  "markdown.updateLinksOnFileMove.enabled": "always"
+}
